@@ -1,6 +1,6 @@
 # resume
 
-> My tiptop Nuxt.js project
+> 个人简历
 
 ## Build Setup
 
